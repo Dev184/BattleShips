@@ -1,0 +1,49 @@
+*{
+font-family: Arial;
+border:0;
+margin:0;
+}
+
+.board td {
+  border: 1px solid #156aab;
+    cursor: pointer;
+    display: block;
+    float: left;
+    height: 20px;
+    margin-bottom: -1px;
+    margin-right: -1px;
+    overflow: hidden;
+    width: 20px;
+}
+
+.headerClass {
+    border: 1px hidden !important;
+    font-size: 12px;
+    text-align: center;
+    width:22px !important;
+    height:22px !important;
+}
+
+.water{
+background-image: url("water.gif");
+}
+
+.water0{
+background-color: #2A6999;
+}
+
+.water1{
+background-color: #1C72AF;
+}
+
+.water2{
+background-color: #1D6DAA;
+}
+
+.water3{
+background-color: #1C72AF;
+}
+
+.hoveredElement{
+	background-color: red !important;
+}

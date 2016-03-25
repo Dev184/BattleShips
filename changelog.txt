@@ -1,0 +1,14 @@
+BUG: ramane blocat cand iesi in afara din table si rotesc in acelsi timp si selectezi o alta nava
+
+	version 0.3
+	===========
+	- added the raw ability to select boats
+	- added raw clasification of boats
+	- added the ability to render the boat
+	- added logic to put back the tiles after the boat is "unrendered"
+	- added the ability to rotate the rendered boat
+
+	version 0.4
+	===========
+	- r R
+	- r repeating
